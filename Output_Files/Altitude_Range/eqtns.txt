@@ -1,0 +1,300 @@
+The RMSE value of the 4th degree fitted polynomial at launch angle 1 is: 
+1.287664082144189
+The R² value of the 4th degree fitted polynomial at launch angle 1 is: 
+0.9999849432701102
+
+The RMSE value of the 4th degree fitted polynomial at launch angle 2 is: 
+1.4631684801519647
+The R² value of the 4th degree fitted polynomial at launch angle 2 is: 
+0.9999832877186409
+
+The RMSE value of the 4th degree fitted polynomial at launch angle 3 is: 
+1.7331742710743379
+The R² value of the 4th degree fitted polynomial at launch angle 3 is: 
+0.9999783309312107
+
+The RMSE value of the 4th degree fitted polynomial at launch angle 4 is: 
+1.8075731704779199
+The R² value of the 4th degree fitted polynomial at launch angle 4 is: 
+0.9999793803565983
+
+The RMSE value of the 4th degree fitted polynomial at launch angle 5 is: 
+2.0501850124827565
+The R² value of the 4th degree fitted polynomial at launch angle 5 is: 
+0.9999758135487492
+
+The RMSE value of the 4th degree fitted polynomial at launch angle 6 is: 
+2.2592536949477036
+The R² value of the 4th degree fitted polynomial at launch angle 6 is: 
+0.9999754510591977
+
+The RMSE value of the 4th degree fitted polynomial at launch angle 7 is: 
+2.4314751748598633
+The R² value of the 4th degree fitted polynomial at launch angle 7 is: 
+0.9999727863819132
+
+The RMSE value of the 4th degree fitted polynomial at launch angle 8 is: 
+2.606625181568806
+The R² value of the 4th degree fitted polynomial at launch angle 8 is: 
+0.99997166712769
+
+The RMSE value of the 4th degree fitted polynomial at launch angle 9 is: 
+2.8768783030862286
+The R² value of the 4th degree fitted polynomial at launch angle 9 is: 
+0.9999649181997343
+
+The RMSE value of the 4th degree fitted polynomial at launch angle 10 is: 
+3.1988813103120237
+The R² value of the 4th degree fitted polynomial at launch angle 10 is: 
+0.9999580096257521
+
+The RMSE value of the 4th degree fitted polynomial at launch angle 11 is: 
+3.3721994789202028
+The R² value of the 4th degree fitted polynomial at launch angle 11 is: 
+0.9999588077081287
+
+The RMSE value of the 4th degree fitted polynomial at launch angle 12 is: 
+3.5634922213475275
+The R² value of the 4th degree fitted polynomial at launch angle 12 is: 
+0.9999587549653149
+
+The RMSE value of the 4th degree fitted polynomial at launch angle 13 is: 
+3.9028509083078786
+The R² value of the 4th degree fitted polynomial at launch angle 13 is: 
+0.999955470522996
+
+The RMSE value of the 4th degree fitted polynomial at launch angle 14 is: 
+4.368163613836051
+The R² value of the 4th degree fitted polynomial at launch angle 14 is: 
+0.9999470513617853
+
+The RMSE value of the 4th degree fitted polynomial at launch angle 15 is: 
+4.708169350614278
+The R² value of the 4th degree fitted polynomial at launch angle 15 is: 
+0.999943102732076
+
+The RMSE value of the 4th degree fitted polynomial at launch angle 16 is: 
+4.706808497704238
+The R² value of the 4th degree fitted polynomial at launch angle 16 is: 
+0.9999434291961188
+
+The RMSE value of the 4th degree fitted polynomial at launch angle 17 is: 
+4.996270836834863
+The R² value of the 4th degree fitted polynomial at launch angle 17 is: 
+0.9999467770875138
+
+The RMSE value of the 4th degree fitted polynomial at launch angle 18 is: 
+5.719780737092219
+The R² value of the 4th degree fitted polynomial at launch angle 18 is: 
+0.9999220886566965
+
+The RMSE value of the 4th degree fitted polynomial at launch angle 19 is: 
+5.599874786292191
+The R² value of the 4th degree fitted polynomial at launch angle 19 is: 
+0.9999353879584154
+
+The RMSE value of the 4th degree fitted polynomial at launch angle 20 is: 
+6.312835003679534
+The R² value of the 4th degree fitted polynomial at launch angle 20 is: 
+0.9999296824740981
+
+The RMSE value of the 4th degree fitted polynomial at launch angle 21 is: 
+6.222187004549654
+The R² value of the 4th degree fitted polynomial at launch angle 21 is: 
+0.9999323924320265
+
+The RMSE value of the 4th degree fitted polynomial at launch angle 22 is: 
+6.9610827974997385
+The R² value of the 4th degree fitted polynomial at launch angle 22 is: 
+0.9999110845032337
+
+The RMSE value of the 4th degree fitted polynomial at launch angle 23 is: 
+7.214934233437687
+The R² value of the 4th degree fitted polynomial at launch angle 23 is: 
+0.9999219836586061
+
+The RMSE value of the 4th degree fitted polynomial at launch angle 24 is: 
+7.354596457610734
+The R² value of the 4th degree fitted polynomial at launch angle 24 is: 
+0.9999188485028899
+
+The RMSE value of the 4th degree fitted polynomial at launch angle 25 is: 
+7.593967531701482
+The R² value of the 4th degree fitted polynomial at launch angle 25 is: 
+0.9999092858018
+
+The RMSE value of the 4th degree fitted polynomial at launch angle 26 is: 
+7.865663136159465
+The R² value of the 4th degree fitted polynomial at launch angle 26 is: 
+0.9999022251940153
+
+The RMSE value of the 4th degree fitted polynomial at launch angle 27 is: 
+8.523459318257293
+The R² value of the 4th degree fitted polynomial at launch angle 27 is: 
+0.9998948030658693
+
+The RMSE value of the 4th degree fitted polynomial at launch angle 28 is: 
+9.667241106224436
+The R² value of the 4th degree fitted polynomial at launch angle 28 is: 
+0.9998813392407833
+
+The RMSE value of the 4th degree fitted polynomial at launch angle 29 is: 
+8.832182676358368
+The R² value of the 4th degree fitted polynomial at launch angle 29 is: 
+0.9998792768963863
+
+The RMSE value of the 4th degree fitted polynomial at launch angle 30 is: 
+9.49372634320419
+The R² value of the 4th degree fitted polynomial at launch angle 30 is: 
+0.9998770162148677
+
+The RMSE value of the 4th degree fitted polynomial at launch angle 31 is: 
+10.033946186415465
+The R² value of the 4th degree fitted polynomial at launch angle 31 is: 
+0.9998870993876451
+
+The RMSE value of the 4th degree fitted polynomial at launch angle 32 is: 
+10.054286776298154
+The R² value of the 4th degree fitted polynomial at launch angle 32 is: 
+0.9998683076241845
+
+The RMSE value of the 4th degree fitted polynomial at launch angle 33 is: 
+10.430705376689394
+The R² value of the 4th degree fitted polynomial at launch angle 33 is: 
+0.9998769442400751
+
+The RMSE value of the 4th degree fitted polynomial at launch angle 34 is: 
+10.697579523105167
+The R² value of the 4th degree fitted polynomial at launch angle 34 is: 
+0.999879474993005
+
+The RMSE value of the 4th degree fitted polynomial at launch angle 35 is: 
+11.723982006017419
+The R² value of the 4th degree fitted polynomial at launch angle 35 is: 
+0.9998579813150665
+
+The RMSE value of the 4th degree fitted polynomial at launch angle 36 is: 
+11.298875490304189
+The R² value of the 4th degree fitted polynomial at launch angle 36 is: 
+0.9998696388646464
+
+The RMSE value of the 4th degree fitted polynomial at launch angle 37 is: 
+12.355594601586022
+The R² value of the 4th degree fitted polynomial at launch angle 37 is: 
+0.9998496200080498
+
+The RMSE value of the 4th degree fitted polynomial at launch angle 38 is: 
+11.927341875097076
+The R² value of the 4th degree fitted polynomial at launch angle 38 is: 
+0.9998678567826352
+
+The RMSE value of the 4th degree fitted polynomial at launch angle 39 is: 
+11.290640984975607
+The R² value of the 4th degree fitted polynomial at launch angle 39 is: 
+0.9998878470319604
+
+The RMSE value of the 4th degree fitted polynomial at launch angle 40 is: 
+12.92504579707458
+The R² value of the 4th degree fitted polynomial at launch angle 40 is: 
+0.9998492435275904
+
+The RMSE value of the 4th degree fitted polynomial at launch angle 41 is: 
+11.788044807774018
+The R² value of the 4th degree fitted polynomial at launch angle 41 is: 
+0.9998820709999905
+
+The RMSE value of the 4th degree fitted polynomial at launch angle 42 is: 
+12.736533551365406
+The R² value of the 4th degree fitted polynomial at launch angle 42 is: 
+0.9998667365655702
+
+The RMSE value of the 4th degree fitted polynomial at launch angle 43 is: 
+13.061955606212155
+The R² value of the 4th degree fitted polynomial at launch angle 43 is: 
+0.9998576050456421
+
+The RMSE value of the 5th degree fitted polynomial at launch angle 44 is: 
+6.504265231242158
+The R² value of the 5th degree fitted polynomial at launch angle 44 is: 
+0.9999591494091555
+
+The RMSE value of the 5th degree fitted polynomial at launch angle 45 is: 
+5.145309386820634
+The R² value of the 5th degree fitted polynomial at launch angle 45 is: 
+0.9999726142173744
+
+The RMSE value of the 5th degree fitted polynomial at launch angle 46 is: 
+11.734723699978526
+The R² value of the 5th degree fitted polynomial at launch angle 46 is: 
+0.9998782032537119
+
+The RMSE value of the 5th degree fitted polynomial at launch angle 47 is: 
+4.692127726115891
+The R² value of the 5th degree fitted polynomial at launch angle 47 is: 
+0.9999813009510453
+
+The RMSE value of the 5th degree fitted polynomial at launch angle 48 is: 
+3.8513505689635514
+The R² value of the 5th degree fitted polynomial at launch angle 48 is: 
+0.9999879674610488
+
+The RMSE value of the 5th degree fitted polynomial at launch angle 49 is: 
+5.206699340739499
+The R² value of the 5th degree fitted polynomial at launch angle 49 is: 
+0.9999786474215357
+
+The RMSE value of the 5th degree fitted polynomial at launch angle 50 is: 
+4.423677040497532
+The R² value of the 5th degree fitted polynomial at launch angle 50 is: 
+0.99998440501529
+
+The RMSE value of the 5th degree fitted polynomial at launch angle 51 is: 
+3.5615669858222048
+The R² value of the 5th degree fitted polynomial at launch angle 51 is: 
+0.9999910474526748
+
+The RMSE value of the 5th degree fitted polynomial at launch angle 52 is: 
+3.116751693846278
+The R² value of the 5th degree fitted polynomial at launch angle 52 is: 
+0.999992771549867
+
+The RMSE value of the 5th degree fitted polynomial at launch angle 53 is: 
+3.2679902440685167
+The R² value of the 5th degree fitted polynomial at launch angle 53 is: 
+0.999991403606101
+
+The RMSE value of the 5th degree fitted polynomial at launch angle 54 is: 
+2.911679559365595
+The R² value of the 5th degree fitted polynomial at launch angle 54 is: 
+0.9999934862106519
+
+The RMSE value of the 5th degree fitted polynomial at launch angle 55 is: 
+2.9748388111066992
+The R² value of the 5th degree fitted polynomial at launch angle 55 is: 
+0.9999937118251991
+
+The RMSE value of the 5th degree fitted polynomial at launch angle 56 is: 
+2.5403614949631175
+The R² value of the 5th degree fitted polynomial at launch angle 56 is: 
+0.9999954252532532
+
+The RMSE value of the 6th degree fitted polynomial at launch angle 57 is: 
+6.206244490595613
+The R² value of the 6th degree fitted polynomial at launch angle 57 is: 
+0.9999700190365697
+
+The RMSE value of the 6th degree fitted polynomial at launch angle 58 is: 
+25.143807875471587
+The R² value of the 6th degree fitted polynomial at launch angle 58 is: 
+0.9995267589724439
+
+The RMSE value of the 6th degree fitted polynomial at launch angle 59 is: 
+133.76257208913233
+The R² value of the 6th degree fitted polynomial at launch angle 59 is: 
+0.9851570781743246
+
+The RMSE value of the 6th degree fitted polynomial at launch angle 60 is: 
+57.681679941740796
+The R² value of the 6th degree fitted polynomial at launch angle 60 is: 
+0.9975483750280003
+
